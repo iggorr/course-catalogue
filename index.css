@@ -1,0 +1,15 @@
+h1 {
+	margin-bottom: 0.6em;
+	font-size: 46px;
+	font-weight: bold;
+	/*position: fixed;         trying to get it on top
+	top:100px;*/
+}
+
+label {
+	font-size: 20px;
+	margin-bottom: 1em;
+}
+html {
+	overflow-y: scroll; 
+}

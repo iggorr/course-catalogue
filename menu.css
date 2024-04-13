@@ -1,0 +1,22 @@
+/*Sizing the Napier logo*/
+.navbar-brand {
+  padding: 0px;
+  height: 80px;             /*if want to enlarge logo*/
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 3px 15px;
+  width: auto;
+}
+								/*if want to enlarge logo*/
+.nav >li >a {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.navbar-toggle {
+  padding: 10px;
+  margin: 25px 15px 25px 0;
+}
+
+

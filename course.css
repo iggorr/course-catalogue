@@ -1,0 +1,54 @@
+#courseTitle {
+	margin-bottom: 0.7em;
+	margin-top: 1em;
+	font-size: 36px;
+	font-weight: bold;
+}
+
+.courseDetails {
+	font-size: 16px;
+}
+
+.bold {
+	font-weight: bold;	
+}
+
+#summary {
+	font-weight: normal;
+	font-size: 30px;
+	margin-top: 1.7em;
+	margin-bottom: 1em;
+}
+
+h1 {
+	margin-bottom: 1em;
+	margin-top: 1em;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#overview {
+	font-size: 16px;
+}
+
+#tabs {
+	margin-top: 3em;
+}
+
+.nav-tabs {
+	font-size: 20px;
+}
+
+.tab-content {
+	padding-top: 2em;
+	font-size: 16px;
+}
+
+.tabHeader {
+	font-size: 24px;
+	margin-bottom: 0.2em;
+}
+
+#modules a, #relCourses a {
+	font-size: 18px;
+}
